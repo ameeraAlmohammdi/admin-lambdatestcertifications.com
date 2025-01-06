@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [LambdaTest Parallel Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" parallel="tests" name="Windows 10 Chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="ameera.CertificationTests.LambdaTestInputFormTest">
+        <methods>
+          <include name="testInputFormSubmit"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- ameera.CertificationTests.LambdaTestInputFormTest -->
+    </classes>
+  </test> <!-- Windows 10 Chrome(failed) -->
+</suite> <!-- Failed suite [LambdaTest Parallel Suite] -->

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-06T16:02:27 AST" name="LambdaTest Parallel Suite" finished-at="2025-01-06T16:03:43 AST" duration-ms="75608">
+    <groups>
+    </groups>
+    <test started-at="2025-01-06T16:02:27 AST" name="macOS Catalina Safari" finished-at="2025-01-06T16:03:39 AST" duration-ms="72228">
+      <class name="ameera.CertificationTests.SimpleFormTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:ameera.CertificationTests.SimpleFormTest@d554c5f]" started-at="2025-01-06T16:02:27 AST" name="setUp" finished-at="2025-01-06T16:02:43 AST" duration-ms="15674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSimpleFormDemo()[pri:0, instance:ameera.CertificationTests.SimpleFormTest@d554c5f]" started-at="2025-01-06T16:02:43 AST" name="testSimpleFormDemo" finished-at="2025-01-06T16:02:48 AST" duration-ms="5535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSimpleFormDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ameera.CertificationTests.SimpleFormTest@d554c5f]" started-at="2025-01-06T16:02:48 AST" name="tearDown" finished-at="2025-01-06T16:02:49 AST" duration-ms="861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ameera.CertificationTests.SimpleFormTest -->
+      <class name="ameera.CertificationTests.LambdaTestSliderTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:ameera.CertificationTests.LambdaTestSliderTest@15888343]" started-at="2025-01-06T16:03:22 AST" name="setUp" finished-at="2025-01-06T16:03:34 AST" duration-ms="12306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDragAndDropSlider()[pri:0, instance:ameera.CertificationTests.LambdaTestSliderTest@15888343]" started-at="2025-01-06T16:03:34 AST" name="testDragAndDropSlider" finished-at="2025-01-06T16:03:39 AST" duration-ms="4734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragAndDropSlider -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ameera.CertificationTests.LambdaTestSliderTest@15888343]" started-at="2025-01-06T16:03:39 AST" name="tearDown" finished-at="2025-01-06T16:03:39 AST" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ameera.CertificationTests.LambdaTestSliderTest -->
+      <class name="ameera.CertificationTests.LambdaTestInputFormTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:ameera.CertificationTests.LambdaTestInputFormTest@2dfaea86]" started-at="2025-01-06T16:02:49 AST" name="setUp" finished-at="2025-01-06T16:03:02 AST" duration-ms="12680" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInputFormSubmit()[pri:0, instance:ameera.CertificationTests.LambdaTestInputFormTest@2dfaea86]" started-at="2025-01-06T16:03:02 AST" name="testInputFormSubmit" finished-at="2025-01-06T16:03:21 AST" duration-ms="19214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputFormSubmit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ameera.CertificationTests.LambdaTestInputFormTest@2dfaea86]" started-at="2025-01-06T16:03:21 AST" name="tearDown" finished-at="2025-01-06T16:03:22 AST" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ameera.CertificationTests.LambdaTestInputFormTest -->
+    </test> <!-- macOS Catalina Safari -->
+    <test started-at="2025-01-06T16:02:27 AST" name="Windows 10 Chrome" finished-at="2025-01-06T16:03:43 AST" duration-ms="75608">
+      <class name="ameera.CertificationTests.SimpleFormTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:ameera.CertificationTests.SimpleFormTest@d737b89]" started-at="2025-01-06T16:02:27 AST" name="setUp" finished-at="2025-01-06T16:02:39 AST" duration-ms="11674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSimpleFormDemo()[pri:0, instance:ameera.CertificationTests.SimpleFormTest@d737b89]" started-at="2025-01-06T16:02:39 AST" name="testSimpleFormDemo" finished-at="2025-01-06T16:02:47 AST" duration-ms="7826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSimpleFormDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ameera.CertificationTests.SimpleFormTest@d737b89]" started-at="2025-01-06T16:02:47 AST" name="tearDown" finished-at="2025-01-06T16:02:47 AST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ameera.CertificationTests.SimpleFormTest -->
+      <class name="ameera.CertificationTests.LambdaTestSliderTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:ameera.CertificationTests.LambdaTestSliderTest@1972e513]" started-at="2025-01-06T16:03:21 AST" name="setUp" finished-at="2025-01-06T16:03:36 AST" duration-ms="15547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDragAndDropSlider()[pri:0, instance:ameera.CertificationTests.LambdaTestSliderTest@1972e513]" started-at="2025-01-06T16:03:36 AST" name="testDragAndDropSlider" finished-at="2025-01-06T16:03:42 AST" duration-ms="6083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragAndDropSlider -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ameera.CertificationTests.LambdaTestSliderTest@1972e513]" started-at="2025-01-06T16:03:42 AST" name="tearDown" finished-at="2025-01-06T16:03:43 AST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ameera.CertificationTests.LambdaTestSliderTest -->
+      <class name="ameera.CertificationTests.LambdaTestInputFormTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:ameera.CertificationTests.LambdaTestInputFormTest@302c971f]" started-at="2025-01-06T16:02:47 AST" name="setUp" finished-at="2025-01-06T16:03:03 AST" duration-ms="16223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInputFormSubmit()[pri:0, instance:ameera.CertificationTests.LambdaTestInputFormTest@302c971f]" started-at="2025-01-06T16:03:03 AST" name="testInputFormSubmit" finished-at="2025-01-06T16:03:20 AST" duration-ms="17338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputFormSubmit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ameera.CertificationTests.LambdaTestInputFormTest@302c971f]" started-at="2025-01-06T16:03:20 AST" name="tearDown" finished-at="2025-01-06T16:03:21 AST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ameera.CertificationTests.LambdaTestInputFormTest -->
+    </test> <!-- Windows 10 Chrome -->
+  </suite> <!-- LambdaTest Parallel Suite -->
+</testng-results>
