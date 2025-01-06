@@ -59,8 +59,8 @@ public class BaseTest {
 			ltOptions.put("plugin", "java-java");
 			browserOptions.setCapability("LT:Options", ltOptions);
 			driver = new RemoteWebDriver(url, browserOptions);
+			
 		}
-
 	}
 
 	@AfterMethod
@@ -68,4 +68,3 @@ public class BaseTest {
 		driver.quit();
 	}
 }
-
